@@ -1,0 +1,36 @@
+Question,Response
+Who are you?,I am a chatbot designed to assist with NAFDAC-related inquiries.
+What are you?,I am a chatbot designed to assist with NAFDAC-related inquiries.
+What is Permit to Import?,"The Import permit is an authorization document that enables an importer, marketer or end user to import Chemicals into Nigeria."
+What is Listing certificate?,"The Listing certificate is issued to marketers after they have met stipulated requirements. It authorizes them to sell chemicals in Nigeria. Please refer to guidelines to obtain listing certificate for more details "
+What is the validity period of a permit to import and permit to clear?,"Validity of all import permits lapses in December 31st of every year, while all permits to clear are single use permits."
+What are Restricted Chemicals? ,Restricted Chemicals are chemicals that are of safety and/or security concerns.
+What are the reasons for rejection of some Material Safety Data Sheets (MSDS) submitted for the processing of application for permit to import? ," MSDS is rejected if it does not; have the name and address of the manufacturer, contain the specific chemical composition of the item."
+Who is qualified to be a Company�s technical officer? ,"The technical officer should have at least an OND in any of the science related disciplines e.g Chemistry, Food Sciences, Engineering etc"
+What is the purpose of the inspection conducted by Chemical Monitoring unit? ,"The Chemical Monitoring unit inspects to assess the location, storage, capacity, handling, usage, technical Personnel and disposal of chemicals on routine basis. The unit also inspects the Warehouses and offices of Companies that apply for listing certificates to ensure they meet the expected requirements for Chemical handling, storage and marketing"
+Why Are Some Chemicals Banned? ,Chemicals are banned when they are found to be poisonous to man or hazardous to the environment.
+How can I login on the e-permit platform? ,Go to trade.gov.ng/nafdac enter your TIN no as your username and password to assess the portal
+How do I make NAFDAC payments? ,"Go to remita.net click on pay FG and State TSA, click Federal Government of Nigeria and select NAFDAC."
+How do I respond to a compliance directive? ,"A notification will be sent to company registered e-mail. log onto the portal, go to support information and respond to your CD"
+How can I delete items on my application? ,"Log onto the portal, select items to be deleted, delete and type 00000 in the blank space."
+Can I correct a wrong HS CODE? ,A wrong HS CODE cannot be corrected. A fresh application is required with the correct HS CODE
+How can I correct a wrong validity Date? ,"Log onto the portal, click Header, select �valid to� and edit the date."
+Can I change unit of measurement on an application that has been submitted (i.e. Metric Tons to Kilogram; Kilograms to Liters etc.)? ,Unit of measurement cannot be changed once application has been submitted. Additional permit is required to make up the balance.
+What option should I select if I am both an end user and a marketer? ,Select End user option.
+ How do I upload documents larger than the required size? ,Documents can be compressed to required sizes by using different computer softwares/apps online.
+Do I need to apply for the branded names or composition of items? ,The chemical composition(s) on the MSDS must be indicated in bracket alongside the brand names of the items.
+Can I submit MSDS in other languages? ,All documents must be legible and in English language only.
+How do I assess my approved permit online? ,All approved permits can be assessed on your application portal by clicking on �print view� tab
+What is PPE? ,"Personal protective equipment e.g. Safety boot, overall, nose mask and hand gloves. "
+How should a stock card/record be prepared? ,"Stock card would be prepared as follows; Name of the chemicals at the top of the stock card with S.I unit. Serial number, date of receipt of chemicals, quantity received and date of sale of chemical. Company supplied to, balance of chemicals and remarks (signature and/endorsement)."
+What are the requirements for storage facilities for chemicals or chemical products? ,"The storage facilities/warehouses should be located in an industrial area. The Warehouse should not be located in an office complex, market or residential building. For rented warehouse, photocopy of evidence of payment of rent or certificate of ownership for Company using its own warehouse must be submitted. The following safety aids must be available in the warehouse, i.e. fire extinguishers, nose masks, hand gloves, eye goggles, overalls, safety boots, first aid box, pallets and source running water. Standard Operating Procedure (SOP) for storage and handling of chemicals must be pasted at the applicable locations in the warehouse. Chemicals in the warehouse must be properly labelled and stored on pallets"
+Why is the inspection of Company�s warehouse carried out for applicants before issuance of chemical import permit? ,To ascertain the suitability of the warehouse for storage of items being applied for. To ensure that the Company�s technical person is knowledgeable in storage and handling of chemicals or items being applied for. To ensure that the safety aids are provided in the warehouse.
+"What type of fire extinguisher is allowed in a warehouse, does the extinguisher expire? ","Dry powder chemical fire extinguisher (6kg or more), CO2 fire extinguisher, and DCP fire extinguisher. Manufactures say most fire extinguisher should work up to 5-10 years, however. A fire extinguisher should be serviced within six month twice a year. "
+Should all type of chemicals be stored in the same warehouse? ,"No, chemicals are stored according to their classification and hazard level i.e. food grade chemicals should not be stored in the same warehouse as toxic chemicals.  "
+How should chemicals be stored in the warehouse? ,"Chemicals should be stored in a ventilated warehouse, should be on pallets and away from the wall.  "
+What type of professional qualification can be accepted as a technical officer? ,Technical officers with qualification in natural/biological and physical sciences.   
+What type of company can we (listed marketers) sell chemicals to? ,Listed marketers can sell to end-users and other listed marketers.  
+How do I prepare an invoice for sale of chemicals? ,An invoice issued for the sale of chemicals should contain the following;
+What are the things/facilities that are required for NAFDAC inspection for chemical storage and handling? ,The technical officer must be present.
+"As manufacturers /end users, can we provide our subsidiaries companies with chemicals imported by us? ","No, only listed chemical marketers with valid listing certificate are allowed to sell or issue chemicals to other companies. You can apply to be listed as a marketer if you intend to import on behalf of your subsidiaries"
+"As a chemical marketer, if I am issued an LPO by a manufacturer, would it be wrong for me to sell chemicals to any other company other than the company that issued the LPO? ","Yes, it is an offense to issue or sell chemicals to any other company other than the company (manufacturer) that issued the LPO."
