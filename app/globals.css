@@ -21,7 +21,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #a0aec0; /* Tailwind's gray-400 */
+  background: #a0aec0; /*. Tailwind's gray-400 */
 }
 
 
