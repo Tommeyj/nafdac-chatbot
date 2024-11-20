@@ -211,7 +211,7 @@ const ChatPage = () => {
   <div className="flex items-center space-x-2">
     <Image 
       src="/NAFDAC-Logo-1-768x152.png" 
-      alt="NAFGuard Logo" 
+      alt="NAFDAC Logo" 
       width={768} 
       height={152} 
       className="object-contain"
@@ -276,7 +276,7 @@ const ChatPage = () => {
         <button
           aria-label="Submit Input"
           type="submit"
-          className="ml-4 bg-[#227645] text-white p-2 rounded-full hover:bg-green-600 focus:outline-none disabled:bg-green-300"
+          className="ml-4 bg-[#227645] text-white p-2 rounded-full hover:bg-[#D0F4DD] focus:outline-none disabled:bg-[#D0F4DD]"
           disabled={loading}
         >
           <svg
