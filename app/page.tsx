@@ -102,7 +102,8 @@ const ChatPage = () => {
     const welcomeMessage: Message = {
       id: Date.now(),
       sender: "bot",
-      text: "Welcome to NAFGuard! How can I assist you today?",
+      text: "Welcome! \n <br />I am NAFGuard, your AI assistant for NAFDAC regulations, drug registration processes, and consumer health tips. \n <br />I'm here to provide you with accurate and helpful information to improve access to regulatory guidelines and ensure public health safety. \n <br />How can I help you today?",
+
     };
     setMessages([welcomeMessage]); // Set the welcome message as the first message
     scrollToBottom();
