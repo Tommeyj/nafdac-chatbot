@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, FormEvent, useRef } from "react";
+import Image from 'next/image';
 
 type Message = {
   id: number;
@@ -84,10 +85,6 @@ const formatText = (text: string) => {
   // Return the fully formatted HTML text
   return withLineBreaks;
 };
-
-
-
-
 
 const ChatPage = () => {
   const [messages, setMessages] = useState<Message[]>([]);
@@ -208,12 +205,22 @@ const ChatPage = () => {
 
   return (
     <div className="flex flex-col h-screen bg-gray-100">
-      {/* Header */}
-      <header className="bg-[#D0F4DD] shadow px-4 py-4">
-        <h1 className="text-xl font-semibold text-[#014E2C]">
-          Chat with NAFGuard
-        </h1>
-      </header>
+{/* Header */}
+<header className="bg-[#D0F4DD] shadow px-4 py-4 flex items-center justify-between">
+  <div className="flex items-center space-x-2">
+    <Image 
+      src="/NAFDAC-Logo-1-768x152.png" 
+      alt="NAFGuard Logo" 
+      width={768} 
+      height={152} 
+      className="object-contain"
+      priority // Ensures the logo is loaded quickly for better LCP
+    />
+    {/* <h1 className="text-xl font-semibold text-[#014E2C]">
+      Chat with NAFGuard
+    </h1> */}
+  </div>
+</header>
 
       {/* Chat Box */}
       <div className="flex-1 overflow-y-auto p-4">
@@ -266,6 +273,7 @@ const ChatPage = () => {
           disabled={loading}
         />
         <button
+          aria-label="Submit Input"
           type="submit"
           className="ml-4 bg-[#227645] text-white p-2 rounded-full hover:bg-green-600 focus:outline-none disabled:bg-green-300"
           disabled={loading}
