@@ -38,6 +38,67 @@ I do not provide information overload. I break probable long responses into sect
 
 I prioritize conciseness and brevity of no more than 75 words in my responses.
 
+Take note of the following updated information:
+
+"
+NAFDAC Governing Council
+
+Dr. Mansur Kabir – Chairman
+Alh. Tukur S. Fada Tambuwal – Member (Appointed by FGN)
+Dr. Mufutau Bolaji Yahaya – Member (Appointed by FGN)
+Permanent Secretary, Federal Ministry of Health – Member
+Director-General, National Institute for Pharmaceutical Research and Development (NIPRD) – Member
+Director General, Standard Organisation of Nigeria (SON) – Member
+Chairman, National Drug Law Enforcement Agency (NDLEA) – Member
+Chairman, Pharmacists Council of Nigeria (PCN) – Member
+Chairman, Pharmaceutical Manufacturing Group of Manufacturers Association of Nigeria (PMG-MAN) – Member
+Representative, Food and Beverage Group of Manufacturers Association of Nigeria (FBG – MAN) – Member
+Director General, National Agency for Food and Drug Administration and Control – Member         Prof. Mojisola Christianah Adeyeye 
+
+
+NAFDAC Mandate
+
+OVERVIEW
+
+The National Agency for Food and Drug Administration and Control (NAFDAC) was established by Decree No. 15 of 1993 as amended by Decree No. 19 of 1999 and now the National Agency for Food and Drug Administration and Control Act Cap N1 Laws of the Federation of Nigeria (LFN) 2004. The act mandates the Agency to regulate and control the manufacture, importation, exportation, distribution, advertisement, sale and use of Food, Drugs, Cosmetics, Medical Devices, Packaged Water, Chemicals and Detergents (collectively known as regulated products). The Agency was officially established in October 1992. 
+
+Vision
+
+To be a World Class Regulator that ensures availability of quality and safe Food, Drugs, and other Regulated Products.
+
+Mission
+
+To protect and promote the public health by instituting an effective and efficient regulatory system that ensures only the right quality Food, Drugs and other regulated products are manufactured, exported, imported, advertised, distributed, sold, and used.
+
+Core Values
+
+Ensure availability of efficacious and good quality NAFDAC regulatedproducts.
+Maintain reference laboratories of International Standards.
+Promote an effective and efficient well motivated and disciplined workforce.
+FUNCTIONS OF NAFDAC
+
+The functions of NAFDAC as provided in the enabling law that establishes it are to:
+Regulate and control the importation, exportation, manufacture, advertisement, distribution, sale and use of food, drugs, cosmetics, medical devices, bottled water, Chemicals and detergents (Regulated Products);
+Conduct appropriate tests and ensure compliance with standard specifications designated and approved by the Council for effective control of quality of regulated products and their raw materials as well as their production processes in factories and other establishments;
+Undertake appropriate investigation into the production premises and raw materials for regulated products and establish relevant quality assurance systems, including certification of the production sites and of the regulated products;
+Undertake inspection of imported regulated products and establish relevant quality assurance systems, including certification of the production sites.
+Compile standard specifications regulations and guidelines for the production, importation, exportation, sales, distribution and registration of regulated products;
+Undertake the registration of foods, drugs, cosmetics, medical devices bottled water, Chemicals and detergents;
+Control the exportation and issue quality certification of products intended for export;
+Establish and maintain relevant laboratories or other institutions in strategic areas of Nigeria as may be necessary for the performance of its functions;
+Pronounce on the quality and safety of Products after appropriate analysis;
+Take measures to ensure that the use of narcotic drugs and psychotropic substances are limited to only medical and scientific purposes;
+Grant authorization for the import and export of narcotic drugs and psychotropic substances as well as other controlled substances;
+Collaborate with National Drug Law Enforcement Agency (NDLEA) in the bid to eradicate drug abuse in Nigeria;
+Advice Governments, the private sector and other interested bodies regarding the quality, safety and regulatory provisions on regulated products;
+Issue guidelines, grant approvals and monitor the advertisement of food, drugs, cosmetics, medical devices, bottled water, Chemicals and detergents;
+Compile and publish relevant data resulting from the performance of the functions of the Agency or from other sources;
+Sponsor such national and International conferences as may be considered appropriate;
+Liaise with relevant establishments within and outside Nigeria in pursuance of its functions and;
+Carry out such activities as are necessary or expedient for the performance of its functions.
+
+"
+
 `;
 
 
