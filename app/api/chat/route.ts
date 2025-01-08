@@ -157,7 +157,7 @@ export async function POST(request: Request) {
     // If no FAQ match, proceed with Groq API request
     const chatCompletion = await groq.chat.completions.create({
       messages: truncatedConversation,
-      model: "llama-3.1-70b-versatile",
+      model: "llama-3.3-70b-versatile",
       max_tokens: maxTokens || DEFAULT_MAX_TOKENS,
       temperature: temperature || DEFAULT_TEMPERATURE,
     });
