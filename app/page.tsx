@@ -205,15 +205,15 @@ const ChatPage = () => {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-gray-100">
+    <div className="max-w-xl mx-auto p-4 bg-white rounded shadow flex flex-col h-screen bg-gray-100">
 {/* Header */}
 <header className="bg-[#D0F4DD] shadow px-4 py-4 flex items-center justify-between">
   <div className="flex items-center space-x-2">
     <Image 
-      src="/NAFDAC-Logo-1-768x152.png" 
-      alt="NAFDAC Logo" 
-      width={768} 
-      height={152} 
+      src="/NAFGuard_logo_200x200_no_bg.png" 
+      alt="NAFGuard Logo" 
+      width={100} 
+      height={100} 
       className="object-contain"
       priority // Ensures the logo is loaded quickly for better LCP
     />
